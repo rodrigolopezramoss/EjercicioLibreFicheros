@@ -13,7 +13,7 @@ Y aqui el fichero de ejemplo.
 ![alt text](https://github.com/rodrigolopezramoss/EjercicioLibreFicheros/blob/master/Capturas/2020-03-27%20(14).png)
 
 
-A continuación muestro lo que sucedería si introducimos una palabra que existe en el y otra que no:
+A continuación muestro lo que sucedería si introducimos una palabra que existe en el fichero y otra que no:
 
 Caso afirmativo, la palabra ha sido hallada.
 
