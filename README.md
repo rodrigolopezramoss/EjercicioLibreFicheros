@@ -14,9 +14,12 @@ Y aqui el fichero de ejemplo.
 
 
 A continuación muestro lo que sucedería si introducimos una palabra que existe en el y otra que no:
+
 Caso afirmativo, la palabra ha sido hallada.
 
 ![alt text](https://github.com/rodrigolopezramoss/EjercicioLibreFicheros/blob/master/Capturas/2020-03-27%20(12).png)
 
+
 Caso negativo, la palabra no se ha encontrado.
+
 ![alt text](https://github.com/rodrigolopezramoss/EjercicioLibreFicheros/blob/master/Capturas/2020-03-27%20(13).png)
